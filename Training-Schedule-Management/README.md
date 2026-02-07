@@ -64,4 +64,3 @@ Please ⭐️ this repository if this project helped you!
 ## License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 "# Training-Schedule-Management" 
-"# Training-Schedule-Management" 
