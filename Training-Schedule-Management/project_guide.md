@@ -81,8 +81,3 @@
 
 3. Exit
 - This option allows an user to exit from the program completely.
-
-## Still Have Confusion?
-- So, after following all above given instructions, still you are facing some difficulties/issues then feel free to reach out to me or just open an issue in this repository and I'll definately get back to you.
-
-
